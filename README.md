@@ -1,7 +1,7 @@
 ## INTRODUCTION
-안녕하세요! AI SW engineer를 꿈꾸는 대학생입니다.
-AI는 다양한 직군에서 무한한 가능성을 지닌 아이템이라 생각합니다.
-다양한 주제에 AI를 접목시켜 유의미한 아웃풋을 만들고 싶어요!
+안녕하세요! AI SW engineer를 꿈꾸는 대학생입니다.<br />
+AI는 다양한 직군에서 무한한 가능성을 지닌 아이템이라 생각합니다.<br />
+다양한 주제에 AI를 접목시켜 유의미한 아웃풋을 만들고 싶어요!<br />
 <br />
 <br />
 <br />
@@ -14,7 +14,6 @@ AI는 다양한 직군에서 무한한 가능성을 지닌 아이템이라 생�
 <br />
 
 ## Skills
-#### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
