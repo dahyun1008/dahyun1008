@@ -24,6 +24,7 @@ AI는 다양한 직군에서 무한한 가능성을 지닌 아이템이라 생�
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/>
+  <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
 
 <br />
 <br />
